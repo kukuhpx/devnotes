@@ -1,5 +1,5 @@
 ## **GIT COMMAND**
-![GIT LOGO](/_src/img/git_logo.png)
+![GIT LOGO](../_src/img/git_logo.png)
 *Use these some command to use Git.*
 1. Checking Git version:
     > git -v
