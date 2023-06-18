@@ -4,12 +4,9 @@
 2. If you haven't create the repo in your project, create the repo with using git command:
     > git init
 3. Crete 3 files:
-	- index.html:
-        > your web source.
-	- index.php:
-            <?php include_once('index.html'); ?>
-	- composer.json:
-        > { }
+	- index.html
+	- index.php
+	- composer.json
 4. Add all file to stage:
     > git add --all
 5. Commit all staged files:
