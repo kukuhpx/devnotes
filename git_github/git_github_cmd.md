@@ -1,6 +1,4 @@
 ## **GIT COMMAND**
-<img src="../_src/img/git_logo.png" style="width: auto;height: 100px">
-<br>
 *Use these some command to use Git.*
 1. Checking Git version:
     > git -v

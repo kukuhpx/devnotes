@@ -1,4 +1,5 @@
-UPLOADING REPO TO HEROKU SERVER
+## **UPLOADING REPO TO HEROKU SERVER**
+*Follow these steps to upload your repo to Heroku server:*
 1. Open your terminal and go to ypur inside project folder.
 2. If you haven't create the repo in your project, create the repo with using git command:
 > git init
